@@ -1,0 +1,21 @@
+body {
+    background-color: purple rgb(109, 31, 182);
+  }
+  
+  .link {
+    font-size: 55px;
+  }
+  
+  .content {
+    color:white rgb(223, 208, 236);
+    text-align: center;
+    font-weight: 100
+  }
+
+  .img-dress {
+    width: 1040px;
+    hieght 1700px;
+    background-image: url(img/dressimg.jpg)
+    background-repeat: no-repeat;
+    background-position: center;
+  }
